@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">सेंट्रल सपोर्ट सिस्टम: ऑटोमेशन</string>
+    <string name="hello_world">नमस्ते</string>
+    <string name="action_settings">सेटिंग</string>
+    
+    <string name="quality">क्वालिटी</string>
+    <string name="quality_details">नया कारपेट स्टार्ट प्रक्रिया/ पहली विजिट रिपोर्ट</string>
+    <string name="first_visit_status">1. पहली विजिट के समय गलीचे में काम की स्तिथि</string>
+    <string name="first_visit_status_1">1. तानी चढ़ चुकी है</string>
+    <string name="first_visit_status_2">2. जंजिरा – थपनी बन चुकी है</string>
+    <string name="check_string_of_nani">2. तानी के तार (खिलाल) चेक करना</string>
+    <string name="check_bandhi">3. बंधी को चेक करना</string>
+
+</resources>
